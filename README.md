@@ -1,5 +1,5 @@
 # student-management-system
-# Student Management System
+
 
 A simple command-line application for managing student records and marks, written in Python. Data is stored in a local JSON file, so your records are saved between runs.
 
